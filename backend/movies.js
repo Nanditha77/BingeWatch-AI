@@ -1,0 +1,33 @@
+const movies = [
+  { title: "3 Idiots", genres: ["Comedy", "Drama"], language: "Hindi", mood: "Motivational" },
+  { title: "Dil Bechara", genres: ["Romance", "Drama"], language: "Hindi", mood: "Emotional" },
+  { title: "Lucia", genres: ["Thriller", "Mystery"], language: "Kannada", mood: "Inspiring" },
+  { title: "Uyare", genres: ["Drama", "Biography"], language: "Malayalam", mood: "Motivational" },
+  { title: "C/o Kancharapalem", genres: ["Romance", "Drama"], language: "Telugu", mood: "Heartwarming" },
+  { title: "96", genres: ["Romance", "Drama"], language: "Tamil", mood: "Emotional" },
+  { title: "Asuran", genres: ["Action", "Drama"], language: "Tamil", mood: "Thriller" },
+  { title: "Drishyam", genres: ["Thriller", "Mystery"], language: "Hindi", mood: "Thriller" },
+  { title: "Interstellar", genres: ["Sci-Fi", "Adventure"], language: "English", mood: "Inspiring" },
+  { title: "Inception", genres: ["Thriller", "Sci-Fi"], language: "English", mood: "Thriller" },
+  { title: "The Dark Knight", genres: ["Action", "Crime"], language: "English", mood: "Good" },
+  { title: "The Pursuit of Happyness", genres: ["Drama", "Biography"], language: "English", mood: "Motivational" },
+  { title: "Life Is Beautiful", genres: ["Comedy", "Drama"], language: "Italian", mood: "Heartwarming" },
+  { title: "Pan's Labyrinth", genres: ["Fantasy", "Drama"], language: "Spanish", mood: "Emotional" },
+  { title: "La La Land", genres: ["Musical", "Romance"], language: "English", mood: "Emotional" },
+  { title: "Amélie", genres: ["Romance", "Comedy"], language: "French", mood: "Funny" },
+  { title: "PK", genres: ["Comedy", "Drama"], language: "Hindi", mood: "Funny" },
+  { title: "Zindagi Na Milegi Dobara", genres: ["Adventure", "Drama"], language: "Hindi", mood: "Inspiring" },
+  { title: "Taare Zameen Par", genres: ["Drama", "Family"], language: "Hindi", mood: "Emotional" },
+  { title: "Les Choristes", genres: ["Musical", "Drama"], language: "French", mood: "Heartwarming" },
+  { title: "Spirited Away", genres: ["Animation", "Fantasy"], language: "Japanese", mood: "Emotional" },
+  { title: "The Intouchables", genres: ["Comedy", "Biography"], language: "French", mood: "Heartwarming" },
+  { title: "Ratatouille", genres: ["Animation", "Comedy"], language: "English", mood: "Funny" },
+  { title: "The Social Network", genres: ["Drama", "Biography"], language: "English", mood: "Motivational" },
+  { title: "The Shawshank Redemption", genres: ["Drama", "Crime"], language: "English", mood: "Inspiring" },
+  { title: "Coco", genres: ["Animation", "Family"], language: "English", mood: "Emotional" },
+  { title: "Into the Wild", genres: ["Adventure", "Biography"], language: "English", mood: "Inspiring" },
+  { title: "Yevade Subramanyam", genres: ["Adventure", "Drama"], language: "Telugu", mood: "Motivational" },
+  { title: "Dangal", genres: ["Drama", "Biography"], language: "Hindi", mood: "Motivational" }
+];
+
+module.exports = movies;
