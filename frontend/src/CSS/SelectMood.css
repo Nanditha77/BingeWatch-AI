@@ -1,0 +1,11 @@
+.SS_main_container{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    color: black;
+}
+.SS_heading{
+    width: 100%;
+    font-size: 22px;
+    color: white;
+}
