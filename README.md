@@ -24,27 +24,28 @@ git clone https://github.com/Nanditha77/BingeWatch-AI.git
 cd BingeWatch-AI  
 
 Install backend dependencies:  
+
 cd backend
 npm install  
 
-Install frontend dependencies:
+Install frontend dependencies:  
 
 cd frontend
-npm install
+npm install  
 
-Install MongoDB Compass & set connection
+Install MongoDB Compass & set connection  
 
-Start the backend server:
+Start the backend server:  
 
-cd backend
-npm start
+cd backend  
+npm start  
 
-Start the frontend server:
+Start the frontend server:  
 
-cd frontend
-npm start
+cd frontend  
+npm start  
 
-__Usage__
+__Usage__  
 Navigate to http://localhost:3000 in your browser to use the application.
 
 
