@@ -20,7 +20,7 @@ __Installation__
 
 Clone the repository:  
 
-git clone https://github.com/Nanditha77/BingeWatch-AI.git
+git clone https://github.com/Nanditha77/BingeWatch-AI.git  
 cd BingeWatch-AI  
 
 Install backend dependencies:  
