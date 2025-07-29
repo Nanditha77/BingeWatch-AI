@@ -6,10 +6,14 @@ BingeWatch AI is a recommendation system which recommends movies by user's mood,
 
 __Languages and Framerwork used:__
 
--JavaScript, HTML, CSS
--Frontend : ReactJs, React Router, Axios
--Backend: Express, Node.js, Mongoose
--MongoDB: A NoSQL database used to store movie data efficiently.
+- JavaScript, HTML, CSS
+- Frontend : ReactJs, React Router, Axios
+- Backend: Express, Node.js, Mongoose
+- MongoDB: A NoSQL database used to store movie data efficiently.
+
+__Algorithms/Logic:__
+
+Cosine Similarity 
 
 __Installation__
 
