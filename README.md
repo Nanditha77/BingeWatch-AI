@@ -1,4 +1,4 @@
 # BingeWatch-AI
 BingeWatch AI is a recommendation system which recommends movies by user's mood, language and genre of the movie.
 
-<img width="1340" height="631" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/c18506e8-7f68-4b55-abf5-4bbb722d42c6" />
+<img width="1329" height="631" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/67c18d4f-0895-4721-88f5-8f240ec57703" />
